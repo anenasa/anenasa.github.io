@@ -1,0 +1,1 @@
+var e=`/MSXZCQ0A/logo.png`,t=`/MSXZCQ0A/welcomeneko.png`;export{e as n,t};
