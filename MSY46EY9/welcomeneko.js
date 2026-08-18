@@ -1,1 +1,0 @@
-var e=`/MSY46EY9/logo.png`,t=`/MSY46EY9/welcomeneko.png`;export{e as n,t};

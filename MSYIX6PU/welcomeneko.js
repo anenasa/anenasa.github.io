@@ -1,0 +1,1 @@
+var e=`/MSYIX6PU/logo.png`,t=`/MSYIX6PU/welcomeneko.png`;export{e as n,t};
