@@ -1,0 +1,1 @@
+var e=`/MT07CBZI/logo.png`,t=`/MT07CBZI/welcomeneko.png`;export{e as n,t};
