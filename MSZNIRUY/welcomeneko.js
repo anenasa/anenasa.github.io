@@ -1,0 +1,1 @@
+var e=`/MSZNIRUY/logo.png`,t=`/MSZNIRUY/welcomeneko.png`;export{e as n,t};
