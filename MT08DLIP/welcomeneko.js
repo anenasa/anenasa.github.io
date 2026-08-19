@@ -1,0 +1,1 @@
+var e=`/MT08DLIP/logo.png`,t=`/MT08DLIP/welcomeneko.png`;export{e as n,t};
