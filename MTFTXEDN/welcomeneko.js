@@ -1,0 +1,1 @@
+var e=`/MTFTXEDN/logo.png`,t=`/MTFTXEDN/welcomeneko.png`;export{e as n,t};

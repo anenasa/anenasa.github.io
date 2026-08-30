@@ -1,1 +1,0 @@
-var e=`/MTFT830B/logo.png`,t=`/MTFT830B/welcomeneko.png`;export{e as n,t};
