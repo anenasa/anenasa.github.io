@@ -1,0 +1,1 @@
+var e=`/MTFWG977/logo.png`,t=`/MTFWG977/welcomeneko.png`;export{e as n,t};
